@@ -11,7 +11,7 @@ $ cmdlog example.log "Third log entry!"
 
 ![example.log file](log_file_screenshot.png "example.log")
 
-### Building
+## Building
 
 Just run the command
 
