@@ -9,4 +9,4 @@ $ cmdlog example.log "Second log entry!"
 $ cmdlog example.log "Third log entry!" 
 ```
 
-![example.log file](screenshot.png "example.log")
+![example.log file](screenshot1.png "example.log")
